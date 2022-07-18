@@ -9,6 +9,15 @@ For this analysis, I will look at specifically if having a paid Vine review make
 ## Results: 
 
 ### How many Vine reviews and non-Vine reviews were there?
+
+First a look at the total reviews (below) in the office products catagory
+
+<img width="312" alt="Screenshot (298)" src="https://user-images.githubusercontent.com/102890151/179434005-4df25f80-349b-44f5-bb0f-bbedaab9dccd.png">
+
+
+<img width="278" alt="Screenshot (297)" src="https://user-images.githubusercontent.com/102890151/179434167-7d01108a-dfeb-49db-9e85-bf924f12c004.png">
+
+
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 ### What percentage of Vine reviews were 5 stars? 
 ### What percentage of non-Vine reviews were 5 stars?
