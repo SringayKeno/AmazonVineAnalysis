@@ -14,12 +14,17 @@ First a look at the total reviews (below) in the office products catagory
 
 <img width="312" alt="Screenshot (298)" src="https://user-images.githubusercontent.com/102890151/179434005-4df25f80-349b-44f5-bb0f-bbedaab9dccd.png">
 
-Next a look at unpaid reviews (below) and paid Vine reviews
+Next a look at the number of unpaid reviews (below) and paid Vine reviews
 
 <img width="278" alt="Screenshot (297)" src="https://user-images.githubusercontent.com/102890151/179434167-7d01108a-dfeb-49db-9e85-bf924f12c004.png">
 
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+Below Number of Vine reviews and non vine reviews that were 5 star
+
+<img width="410" alt="Screenshot (300)" src="https://user-images.githubusercontent.com/102890151/179435493-b4fc1bc8-1154-486f-bed0-8b016c826f2a.png">
+
 ### What percentage of Vine reviews were 5 stars vs What percentage of non-Vine reviews were 5 stars?
 
 Paid reviews and unpaid % of 5 star reviews (below)
