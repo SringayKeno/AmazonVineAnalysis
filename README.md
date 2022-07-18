@@ -4,7 +4,7 @@
 
 Using my knowledge of PySpark I looked at determining if there is any bias towards reviews that were written as part of the Amazon's Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Vine members, who are then required to publish a review. 
 
-For this analysis, I will look at specifically if having a paid Vine review makes a difference in the percentage of 5-star reviews for in Amazon's office supplies category. 
+* For this analysis, I will look at specifically if having a paid Vine review makes a difference in the percentage of 5-star reviews for Amazon's office supplies category.*
 
 ## Results: 
 
