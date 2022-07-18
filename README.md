@@ -37,4 +37,4 @@ The percentage of 5 star reviews from Amazon Vine members and non-Vine members, 
 ### One additional analysis that you could do with the dataset to support your statement.
 
 * Analysis of all ratings ( 1-5 stars) between paid Vine reviews and non Vine reviews. Perhaps the positive bias lies within the 4 star ratings?
-* Analysis of negative ratings (1 and 2 stars) between paid Vine reviews and non Vine reviews. With paid reviews does there tend to be less negativ ratings
+* Analysis of negative ratings (1 and 2 stars) between paid Vine reviews and non Vine reviews. With paid reviews does there tend to be less negative ratings?
