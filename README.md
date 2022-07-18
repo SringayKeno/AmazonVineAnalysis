@@ -22,6 +22,8 @@ Next a look at unpaid reviews (below) and paid Vine reviews
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 ### What percentage of Vine reviews were 5 stars vs What percentage of non-Vine reviews were 5 stars?
 
+Paid reviews and unpaid % of 5 star reviews (below)
+
 <img width="414" alt="Screenshot (299)" src="https://user-images.githubusercontent.com/102890151/179435168-49af8597-ebf6-459c-b5a2-23f70e693d9f.png">
 
 
